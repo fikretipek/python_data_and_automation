@@ -1,5 +1,3 @@
-# python_data_and_automation
-
 ## 📌 Bu Depo Hakkında
 
 Bu depo, veri işleme, otomasyon, analiz, görselleştirme, web kazıma, doğal dil işleme (NLP) ve medya işleme için geliştirilmiş uygulamalı Python komut dosyaları içermektedir.
